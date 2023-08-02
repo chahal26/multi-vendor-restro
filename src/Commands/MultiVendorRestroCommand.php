@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Chahal26\MultiVendorRestro\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MultiVendorRestroCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'multi-vendor-restro';
 
     public $description = 'My command';
 
