@@ -2,9 +2,9 @@
 
 namespace Chahal26\MultiVendorRestro\Tests;
 
+use Chahal26\MultiVendorRestro\MultiVendorRestroServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Chahal26\MultiVendorRestro\MultiVendorRestroServiceProvider;
 
 class TestCase extends Orchestra
 {

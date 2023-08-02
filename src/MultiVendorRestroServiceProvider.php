@@ -2,9 +2,9 @@
 
 namespace Chahal26\MultiVendorRestro;
 
+use Chahal26\MultiVendorRestro\Commands\MultiVendorRestroCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Chahal26\MultiVendorRestro\Commands\MultiVendorRestroCommand;
 
 class MultiVendorRestroServiceProvider extends PackageServiceProvider
 {
